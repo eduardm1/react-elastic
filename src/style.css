@@ -1,0 +1,7 @@
+.orders .orderDetail {
+    display: none;
+  }
+  
+  .active .orderDetail {
+    display: block;
+  }
